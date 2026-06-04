@@ -4,7 +4,7 @@
 
 ## Preface
 
-Architected an autonomous ecosystem integrating next-gen countercultural media, an entertainment magazine, filmmaking, gamedev, and tech.
+Architected an autonomous ecosystem integrating countercultural media, an entertainment magazine, filmmaking, gamedev, and tech.
 
 For each vertical — production-ready concepts and a market colonization strategy.
 
