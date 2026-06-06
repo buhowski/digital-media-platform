@@ -8,7 +8,7 @@ Architected an autonomous ecosystem integrating countercultural media, an entert
 
 For each vertical — launch-ready concepts and a market colonization strategy.
 
-Accomplices, partners, and investors needed.
+Needed: accomplices, partners, and investors.
 
 Project details — in navigation. Corporation roadmap — below.
 

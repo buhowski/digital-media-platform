@@ -54,4 +54,4 @@ Along with the fragments of pure energy, a shard of the High Demon escaped into 
 
 *Under Construction …*
 
-In need of accomplices and resources to make it happen. If you have the drive or know how to scale this — reach out.
+Needed: accomplices and resources to make it happen. If you have the drive or know how to scale this — reach out.
