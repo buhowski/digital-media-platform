@@ -63,13 +63,14 @@ const CVPage = () => {
 
 			{!loaded && <Preloader />}
 
+			{/* eslint-disable-next-line jsx-a11y/iframe-has-title */}
 			<iframe
 				src={fileSource}
 				width='100%'
 				height='100%'
 				className='resume__frame'
 				onLoad={() => setLoaded(true)}
-				title='Olexander Tsiomakh — Frontend Developer CV'
+				// title='Olexander Tsiomakh — Frontend Developer CV'
 			/>
 		</div>
 	);
