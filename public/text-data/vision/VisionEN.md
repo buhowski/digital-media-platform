@@ -6,11 +6,11 @@
 
 Architected an autonomous ecosystem integrating countercultural media, an entertainment magazine, filmmaking, gamedev, and tech.
 
-Market colonization strategy and launch-ready concepts — for each vector.
+Developed a market colonization strategy and launch-ready concepts for each direction.
 
 Needed: accomplices, partners, and investors.
 
-Project details — in navigation. Corporation roadmap — below.
+Project details — in navigation. Corporation plan — below.
 
 [mobile-slider]
 
