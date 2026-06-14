@@ -359,8 +359,7 @@
 
 		// .preloader__spinner
 		&__spinner {
-			width: 35px;
-			height: 35px;
+			@include squareSize(35px);
 
 			// .preloader__spinner-span:before
 			&-span:before {

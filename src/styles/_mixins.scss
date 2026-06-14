@@ -1,3 +1,9 @@
+// General mixins
+@mixin squareSize($size) {
+	width: $size;
+	height: $size;
+}
+
 // Hover helper
 @mixin desktop-hover {
 	@media (hover: hover) and (pointer: fine) {
